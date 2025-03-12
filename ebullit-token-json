@@ -3,4 +3,19 @@
   "symbol": "EBULLIT",
   "description": "A useful Cargobike in Zurich.",
   "image": "https://raw.githubusercontent.com/rellefekcor/solana/71cd9a5bbaf8255d35f3fb1f1184c58c4ac0b73f/bullit.jpg"
+  "attributes": [
+      {
+        "governance": "Majority Vote",
+        "governance-rights": "Per share basis",
+        "governance-progposal-rights": "All shareholders",
+        "usage-rights-min-no-shares": "1",
+        "transfer-rights": "sell, buy, send, receive",
+        "transfer-right-of-first-refusal": "Right of First Refusal",
+        "transfer-participants": "public",
+        "earning-rights": "Per share basis",
+        "cost": "Per share basis",  
+        "dispute-resolution": "Fire Sale",
+        "manager": "GnktoyfPd1Jr2qiANvQqDGDKAn96ZJZb6WxGSpu3L35S",
+      }
+
 }
